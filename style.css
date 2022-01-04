@@ -1,0 +1,176 @@
+.center {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+.block-1 {
+    margin-top: 50px;
+    padding: 10px;
+}
+
+.bg-gray {
+    background-color: rgb(247, 239, 239);
+    margin-right: 2%;
+    margin-left: 2%;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-up {
+    position: relative;
+    top: -20px;
+
+}
+
+.block-2 {
+    background-color: white;
+    position: relative;
+    top: -30px;
+    height: 25px;
+    margin-right: 37%;
+    margin-left: 37%;
+}
+
+.button {
+    
+    top: 60%;
+    left: 41%;
+    position: absolute;
+    background-color: rgb(247, 239, 239);
+    padding-left: 10px;
+    padding-right: 10px;
+    margin:0
+}
+
+.container {
+    /* height: 200px; */
+    /* position: relative; */
+    border: 3px solid gray
+}
+
+.button-2 {
+    
+    top: 60%;
+    right: 41%;
+    position: absolute;
+    background-color: rgb(247, 239, 239);
+    padding-left: 10px;
+    padding-right: 10px;
+    margin:0
+    
+}
+
+.block-3 {
+    position: absolute;
+    background-color: cyan;
+    height: 100px;
+    width: 550px;
+    margin-top: 14px;
+    margin-left: -0.67%;
+    
+}
+
+.link {
+    position: relative;
+    top: -15px;
+    left: 45px;
+}
+
+.link-2 {
+    position: relative;
+    right: 54px;
+}
+
+.non-line {
+    text-decoration: none;
+}
+
+.block-4 {
+    position: absolute;
+    background-color: lightseagreen;
+    height: 100px;
+    width: 250px;
+    margin-left: 100.5%;
+    margin-top: -68.42px;
+}
+
+.block-4-words {
+    position: relative;
+    top: 10px;
+    
+    padding-left: 100px;
+}
+
+.block-5-words {
+    position: relative;
+    top: 25px;
+    right: 65px;
+    
+}
+
+.block-6-words {
+    position: relative;
+    top: 25px;
+    left: 53px;
+    
+}
+
+.block-7-words {
+    position: relative;
+    top: 45px;
+    right: 45px;    
+}
+
+.block-8 {
+    position: absolute;
+    background-color: mediumaquamarine;
+    height: 100px;
+    width: 654.5px;
+    left: 101%;
+    top: 0%;
+}
+
+.text-up-2 {
+    position: relative;
+    top: -10%;
+
+}
+
+.text-up-3 {
+    position: relative;
+    top: -25%;
+}
+
+.block-9 {
+    background-color: white;
+    position: relative;
+    top: -40px;
+    height: 25px;
+    margin-right: 30%;
+    margin-left: 30%;
+}
+
+.button-3 {
+    top: 72%;
+    right: 48%;
+    position: absolute;
+    background-color: rgb(247, 239, 239);
+    padding-left: 10px;
+    padding-right: 10px;
+    margin:0
+}
+
+.archive {
+    position: relative;
+    top: -35px;
+    left: 50px;
+}
+
+.copyright {
+    position: relative;
+    right: 60%;
+}
